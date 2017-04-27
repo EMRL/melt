@@ -1,6 +1,7 @@
-# melt
+# Melt
 A minimalist fondue set.
 
+![Image](https://github.com/emrl/melt/blob/master/img/melt-render.jpg)
 ```
 Dimensions to remember
 
